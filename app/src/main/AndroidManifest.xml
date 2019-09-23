@@ -11,12 +11,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".patient.PatientMainActivity"
-            android:theme="@style/ActionBarTheme"
-            android:label="Patient Dashboard"/>
-        <activity android:name=".doctor.DoctorMainActivity"
-            android:theme="@style/ActionBarTheme"
-            android:label="Doctor Dashboard"/>
+        <activity android:name=".doctor.DoctorNotifications"></activity>
+        <activity android:name=".doctor.DoctorProfileActivity" />
+        <activity
+            android:name=".patient.PatientMainActivity"
+            android:label="Patient Dashboard"
+            android:theme="@style/ActionBarTheme" />
+        <activity
+            android:name=".doctor.DoctorMainActivity"
+            android:label="Doctor Dashboard"
+            android:theme="@style/ActionBarTheme" />
         <activity
             android:name=".RegisterActivity"
             android:windowSoftInputMode="stateVisible|adjustResize" />
