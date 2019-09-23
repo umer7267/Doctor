@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054434573411",
+    "firebase_url": "https://doctor-app-healthtracker.firebaseio.com",
+    "project_id": "doctor-app-healthtracker",
+    "storage_bucket": "doctor-app-healthtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054434573411:android:868f31cc422ebe7675cc56",
+        "android_client_info": {
+          "package_name": "com.healthtracker.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054434573411-thu6jj2o6ultf83pnn9pdin2k3nn4170.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5eBofoeDQnpcOJOsiIU3iOBO93shBkZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054434573411-thu6jj2o6ultf83pnn9pdin2k3nn4170.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
